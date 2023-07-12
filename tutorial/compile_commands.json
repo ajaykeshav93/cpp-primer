@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/opt/homebrew/opt/llvm/bin/clang++",
+      "-c",
+      "-g",
+      "-Wall",
+      "-I/Users/meltdown1993/Desktop/cpp-primer/include",
+      "-std=c++11",
+      "hello-world.cpp"
+    ],
+    "directory": "/Users/meltdown1993/Desktop/cpp-primer/tutorial",
+    "file": "/Users/meltdown1993/Desktop/cpp-primer/tutorial/hello-world.cpp"
+  }
+]

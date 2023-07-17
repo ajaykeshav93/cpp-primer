@@ -1,0 +1,8 @@
+For loop held more advantages than the while loop
+
+1. Easier to understand the code
+2. We often forget updating the loop index variable in a while loop. This can't happen when using for.
+3. Allows declaration of loop index variable in the init-statement of the header part thus limiting the scope of the index variable.
+4. Each part of the for loop's header is only optional, thereby allowing more flexiblity to implement more algorithms.
+
+

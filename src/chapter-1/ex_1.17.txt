@@ -1,0 +1,4 @@
+If there are no duplicate values, the program would simply print something like:
+
+<val> occurs #n times.
+

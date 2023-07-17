@@ -1,0 +1,145 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-g",
+      "-Wall",
+      "-I/Users/meltdown1993/Desktop/cpp-primer/include",
+      "-std=c++11",
+      "ex_1.3.cpp"
+    ],
+    "directory": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1",
+    "file": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1/ex_1.3.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-g",
+      "-Wall",
+      "-I/Users/meltdown1993/Desktop/cpp-primer/include",
+      "-std=c++11",
+      "ex_1.4.cpp"
+    ],
+    "directory": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1",
+    "file": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1/ex_1.4.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-g",
+      "-Wall",
+      "-I/Users/meltdown1993/Desktop/cpp-primer/include",
+      "-std=c++11",
+      "ex_1.5.cpp"
+    ],
+    "directory": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1",
+    "file": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1/ex_1.5.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-g",
+      "-Wall",
+      "-I/Users/meltdown1993/Desktop/cpp-primer/include",
+      "-std=c++11",
+      "ex_1.8.cpp"
+    ],
+    "directory": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1",
+    "file": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1/ex_1.8.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-g",
+      "-Wall",
+      "-I/Users/meltdown1993/Desktop/cpp-primer/include",
+      "-std=c++11",
+      "ex_1.9.cpp"
+    ],
+    "directory": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1",
+    "file": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1/ex_1.9.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-g",
+      "-Wall",
+      "-I/Users/meltdown1993/Desktop/cpp-primer/include",
+      "-std=c++11",
+      "ex_1.10.cpp"
+    ],
+    "directory": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1",
+    "file": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1/ex_1.10.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-g",
+      "-Wall",
+      "-I/Users/meltdown1993/Desktop/cpp-primer/include",
+      "-std=c++11",
+      "ex_1.11.cpp"
+    ],
+    "directory": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1",
+    "file": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1/ex_1.11.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-g",
+      "-Wall",
+      "-I/Users/meltdown1993/Desktop/cpp-primer/include",
+      "-std=c++11",
+      "ex_1.13.cpp"
+    ],
+    "directory": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1",
+    "file": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1/ex_1.13.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-g",
+      "-Wall",
+      "-I/Users/meltdown1993/Desktop/cpp-primer/include",
+      "-std=c++11",
+      "ex_1.16.cpp"
+    ],
+    "directory": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1",
+    "file": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1/ex_1.16.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-g",
+      "-Wall",
+      "-I/Users/meltdown1993/Desktop/cpp-primer/include",
+      "-std=c++11",
+      "ex_1.19.cpp"
+    ],
+    "directory": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1",
+    "file": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1/ex_1.19.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-g",
+      "-Wall",
+      "-I/Users/meltdown1993/Desktop/cpp-primer/include",
+      "-std=c++11",
+      "ex_1.20.cpp"
+    ],
+    "directory": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1",
+    "file": "/Users/meltdown1993/Desktop/cpp-primer/src/chapter-1/ex_1.20.cpp"
+  }
+]

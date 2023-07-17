@@ -1,6 +1,6 @@
 TOPTARGETS := all clean
 
-SUBDIRS := tutorial src
+SUBDIRS := chapter-1
 
 $(TOPTARGETS): $(SUBDIRS)
 $(SUBDIRS):

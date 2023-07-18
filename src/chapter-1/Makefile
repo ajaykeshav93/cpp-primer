@@ -24,7 +24,9 @@ MODULES = ex_1.3 \
 			ex_1.19 \
 			ex_1.20 \
 			ex_1.21 \
-			ex_1.22
+			ex_1.22 \
+			ex_1.23 \
+			ex_1.25
 
 all: $(MODULES)
 

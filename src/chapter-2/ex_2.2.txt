@@ -1,0 +1,5 @@
+double rate = 0.0;          // rate may represent floating point values requiring more precision
+long principal = 0;         // most cases, this amount may not exceed 2^32, so having a long should suffice
+long payment = 0;           // most cases, this amount may not exceed 2^32, so having a long should suffice
+
+

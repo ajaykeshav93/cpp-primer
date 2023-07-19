@@ -1,0 +1,10 @@
+short           -> at least 16 bit wide
+int             -> at least 16 bits wide
+long            -> at least 32 bit wide
+long long       -> at least 64 bit wide
+
+signed type     -> can represent half the range of values supported by unsigned version
+
+float           -> at least 6 significant digits
+double          -> at least 10 significant digits
+long double     -> at least 10 significant digits

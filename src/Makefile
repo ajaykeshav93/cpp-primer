@@ -1,6 +1,6 @@
 TOPTARGETS := all clean
 
-SUBDIRS := chapter-1
+SUBDIRS := chapter-1 chapter-2
 
 $(TOPTARGETS): $(SUBDIRS)
 $(SUBDIRS):

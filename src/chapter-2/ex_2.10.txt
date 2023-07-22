@@ -1,0 +1,7 @@
+std::string global_str;                         // initialized to empty string
+int global_int;                                 // initialized to 0
+int main()
+{
+    int local_int;                              // uninitialized int  
+    std::string local_str;                      // empty string
+}

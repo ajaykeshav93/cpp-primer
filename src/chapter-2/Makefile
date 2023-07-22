@@ -12,7 +12,8 @@ LDLIBS = -lstdc++
 CPPFLAGS = -I/opt/homebrew/opt/llvm/include
 
 # List all binaries to generate
-MODULES = ex_2.4
+MODULES = ex_2.4 \
+			ex_2.8
 
 all: $(MODULES)
 

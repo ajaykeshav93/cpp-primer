@@ -1,0 +1,5 @@
+(a) "Who goes with F\145rgus?\012"          // Who goes with Fergus? \n (string literal)
+(b) 3.14e1L                                 // 31.4 (long)
+(c) 1024f                                   // 1024.0 (float)
+(d) 3.14L                                   // 3.14 long double
+
